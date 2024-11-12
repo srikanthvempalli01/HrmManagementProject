@@ -1,8 +1,10 @@
 G:\HrmManagementProject\src\test\java\com\HrmManagement\Utilities\Reporting.java
+G:\HrmManagementProject\src\test\java\com\HrmManagement\PageObjectClasses\LoginDDT.java
 G:\HrmManagementProject\src\test\java\com\HrmManagement\TestCases\TC_TestCaseLogin_001.java
 G:\HrmManagementProject\src\test\java\com\HrmManagement\Utilities\ReadConfig.java
 G:\HrmManagementProject\src\test\java\com\HrmManagement\PageObjectClasses\LoginPage.java
+G:\HrmManagementProject\src\test\java\com\HrmManagement\TestCases\TC_TestCaseLoginDDT_002.java
 G:\HrmManagementProject\src\test\java\com\HrmManagement\Utilities\XLUtils.java
 G:\HrmManagementProject\src\test\java\com\HrmManagement\TestCases\BaseClass.java
-G:\HrmManagementProject\src\test\java\com\HrmManagement\TestCases\TC_TestCaseRegister_002.java
 G:\HrmManagementProject\src\test\java\com\HrmManagement\PageObjectClasses\RegisterPage.java
+G:\HrmManagementProject\src\test\java\com\HrmManagement\TestCases\TC_TestCaseRegister_001.java

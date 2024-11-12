@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.HrmManagement.TestCases.TC_TestCaseRegister_002">
+      <class name="com.HrmManagement.TestCases.TC_TestCaseRegister_001">
         <methods>
           <include name="tearDown"/>
-          <include name="setup"/>
           <include name="registerTest"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- com.HrmManagement.TestCases.TC_TestCaseRegister_002 -->
+      </class> <!-- com.HrmManagement.TestCases.TC_TestCaseRegister_001 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

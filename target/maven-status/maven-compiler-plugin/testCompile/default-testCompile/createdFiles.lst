@@ -1,8 +1,10 @@
+com\HrmManagement\TestCases\TC_TestCaseRegister_001.class
 com\HrmManagement\Utilities\ReadConfig.class
 com\HrmManagement\TestCases\TC_TestCaseLogin_001.class
 com\HrmManagement\TestCases\BaseClass.class
+com\HrmManagement\TestCases\TC_TestCaseLoginDDT_002.class
 com\HrmManagement\Utilities\XLUtils.class
+com\HrmManagement\PageObjectClasses\LoginDDT.class
 com\HrmManagement\PageObjectClasses\LoginPage.class
 com\HrmManagement\PageObjectClasses\RegisterPage.class
-com\HrmManagement\TestCases\TC_TestCaseRegister_002.class
 com\HrmManagement\Utilities\Reporting.class

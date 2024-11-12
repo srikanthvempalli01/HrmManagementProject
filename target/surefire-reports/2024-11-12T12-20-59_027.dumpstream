@@ -1,4 +1,4 @@
-# Created at 2024-11-11T16:34:24.491
+# Created at 2024-11-12T12:21:00.018
 Boot Manifest-JAR contains absolute paths in classpath 'G:\HrmManagementProject\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 

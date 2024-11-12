@@ -8,7 +8,8 @@
         <parameter name="browser" value="chrome"/>
         <classes>
             <class name="com.HrmManagement.TestCases.TC_TestCaseLogin_001"/>
-            <class name="com.HrmManagement.TestCases.TC_TestCaseRegister_002"/>
+            <class name="com.HrmManagement.TestCases.TC_TestCaseRegister_001"/>
+            <class name="com.HrmManagement.TestCases.TC_TestCaseLoginDDT_002"/>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->

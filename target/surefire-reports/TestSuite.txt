@@ -1,4 +1,20 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 44.374 s - in TestSuite
+Tests run: 7, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 81.535 s <<< FAILURE! - in TestSuite
+com.HrmManagement.TestCases.TC_TestCaseLoginDDT_002.LoginDDTTest[john1, demo](2)  Time elapsed: 5.83 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.HrmManagement.TestCases.TC_TestCaseLoginDDT_002.LoginDDTTest(TC_TestCaseLoginDDT_002.java:36)
+
+com.HrmManagement.TestCases.TC_TestCaseLoginDDT_002.LoginDDTTest[john, demo123](3)  Time elapsed: 5.664 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.HrmManagement.TestCases.TC_TestCaseLoginDDT_002.LoginDDTTest(TC_TestCaseLoginDDT_002.java:36)
+
+com.HrmManagement.TestCases.TC_TestCaseLoginDDT_002.LoginDDTTest[, demo](4)  Time elapsed: 5.87 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.HrmManagement.TestCases.TC_TestCaseLoginDDT_002.LoginDDTTest(TC_TestCaseLoginDDT_002.java:36)
+
+com.HrmManagement.TestCases.TC_TestCaseLoginDDT_002.LoginDDTTest[john, ](5)  Time elapsed: 5.818 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.HrmManagement.TestCases.TC_TestCaseLoginDDT_002.LoginDDTTest(TC_TestCaseLoginDDT_002.java:36)
+

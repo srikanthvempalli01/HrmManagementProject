@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
   <listeners>
     <listener class-name="com.HrmManagement.Utilities.Reporting"/>
   </listeners>
-  <test thread-count="5" name="Test1(failed)">
+  <test thread-count="5" name="Test1(failed)" verbose="0">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.HrmManagement.TestCases.TC_TestCaseRegister_001">
-        <methods>
-          <include name="tearDown"/>
-          <include name="registerTest"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.HrmManagement.TestCases.TC_TestCaseRegister_001 -->
       <class name="com.HrmManagement.TestCases.TC_TestCaseLoginDDT_002">
         <methods>
           <include name="tearDown"/>
